@@ -1,0 +1,76 @@
+/* GENERAL */
+
+body
+{
+	font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-weight: bold;
+}
+section .heading
+{
+
+}
+.red-divider
+{
+	width: 100px;
+	height: 4px;
+	background: #5bc0de;
+	margin: 0 auto;
+}
+
+/* ABOUT */
+#about
+{
+	padding-top:50px;
+	background: #5bc0de;
+	text-align: center;
+	padding-bottom:40px;
+}
+
+section.heading
+{
+	text-align: center;
+	padding-bottom:40px;
+}
+#about.heading h1
+{
+	text-align: center;
+	background: #f9f9f9;
+	text-transform: uppercase;
+}
+
+/* COMPETENCES */
+{
+	padding-top:50px;
+	background: #5bc0de;
+	text-align: center;
+	padding-bottom:40px;
+}
+
+section.competences
+{
+	text-align: center;
+	padding-bottom:40px;
+}
+#competences.heading h1
+{
+	text-align: center;
+	background: #f9f9f9;
+	text-transform: uppercase;
+}
+#skills .progress
+{
+	height: 100px;
+	margin: 30px 20px;
+	backface-visibility: #ddd;
+}
+#skills.progress-bar
+{
+	background: #d82c2e;
+}
+#skills.progress h5
+{
+	text-shadow: 1px 1px 1px #000;
+}
